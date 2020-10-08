@@ -3,6 +3,9 @@
 **.zip
 solutions/
 *.code-workspace
+# NumPy saves
+*.npy
+*.npz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
