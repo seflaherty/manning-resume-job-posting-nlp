@@ -6,6 +6,8 @@ solutions/
 # NumPy saves
 *.npy
 *.npz
+# Pickles
+*_pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
